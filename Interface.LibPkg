@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=OutputIntLibs
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -104,6 +104,12 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Generic_IntLibOptions]
+OldFormat=False
+
+[Generic_EDE]
+OutputDir=OutputIntLibs
 
 [OutputGroup1]
 Name=Netlist Outputs

@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QLKWIILG
 
 [Document3]
-DocumentPath=Resistor_SMD.PcbLib
+DocumentPath=Diode_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UBVXWEME
+DocumentUniqueId=BHFXCQTQ
 
 [Document4]
 DocumentPath=Capacitor_SMD.PcbLib
@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QMPYDPHN
 
 [Document12]
-DocumentPath=Diode_SMD.PcbLib
+DocumentPath=Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BHFXCQTQ
+DocumentUniqueId=UBVXWEME
 
 [Document13]
 DocumentPath=Buzzer_Beeper.PcbLib

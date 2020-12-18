@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Diode.SchLib
+DocumentPath=74xx.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -52,10 +52,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VQSPXEVO
+DocumentUniqueId=QWKVDNCD
 
 [Document2]
-DocumentPath=Diode_SMD.PcbLib
+DocumentPath=Package_TO_SOT_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BHFXCQTQ
+DocumentUniqueId=QMPYDPHN
 
 [Document3]
-DocumentPath=Package_TO_SOT_SMD.PcbLib
+DocumentPath=Package_SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,11 +88,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Generic_IntLibOptions]
-OldFormat=False
-
 [Generic_EDE]
 OutputDir=OutputIntLibs
+
+[Generic_IntLibOptions]
+OldFormat=False
 
 [OutputGroup1]
 Name=Netlist Outputs

@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XTVQBLVC
 
 [Document2]
-DocumentPath=Package_DFN_QFN_SON.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BMPYWTCV
-
-[Document3]
 DocumentPath=Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,6 +70,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOWPSVBE
+
+[Document3]
+DocumentPath=Package_DFN_QFN_SON.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BMPYWTCV
 
 [Document4]
 DocumentPath=Other.PcbLib
